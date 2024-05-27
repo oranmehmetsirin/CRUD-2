@@ -14,6 +14,8 @@ You can review the project content, change its title and content, apply various 
 
 The visual of the project is below.
 
+![Animation](https://github.com/oranmehmetsirin/CRUD-2/blob/main/gif.gif?raw=true)
+
 
 # React + Vite
 
